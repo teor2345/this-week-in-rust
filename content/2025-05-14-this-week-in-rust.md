@@ -190,6 +190,7 @@ Revision range: [62c5f58f..718ddf66](https://perf.rust-lang.org/?start=62c5f58f5
 
 **Summary**:
 
+
 | (instructions:u)                   | mean  | range           | count |
 |:----------------------------------:|:-----:|:---------------:|:-----:|
 | Regressions ❌ <br /> (primary)    | 0.5%  | [0.2%, 1.4%]    | 113   |
@@ -197,6 +198,7 @@ Revision range: [62c5f58f..718ddf66](https://perf.rust-lang.org/?start=62c5f58f5
 | Improvements ✅ <br /> (primary)   | -2.5% | [-22.5%, -0.3%] | 45    |
 | Improvements ✅ <br /> (secondary) | -0.9% | [-2.3%, -0.2%]  | 10    |
 | All ❌✅ (primary)                 | -0.3% | [-22.5%, 1.4%]  | 158   |
+
 
 [Full report here](https://github.com/rust-lang/rustc-perf/blob/521ad9b18768d7c9890dbc6e6685e38b8d4c0164/triage/2025-05-12.md)
 
